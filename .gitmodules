@@ -1,0 +1,3 @@
+[submodule "soccer-leagues"]
+	path = soccer-leagues
+	url = https://github.com/ShlomyG/soccer-leagues.git
